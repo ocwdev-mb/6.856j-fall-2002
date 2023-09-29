@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "legacy_uid": "7d1c7f6b-fa60-5986-415d-a496e3f87514",
+  "instructors": {
+    "content": [
+      "cd0ae2b7-780e-6417-9aea-e64546208ac5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "da6d1b9b-62c5-9cd9-691c-0bb342f4416a",
+    "website": "6-856j-randomized-algorithms-fall-2002"
+  },
+  "course_title": "Randomized Algorithms",
+  "course_description": "This course examines how randomization can be used to make algorithms simpler and more efficient via random sampling, random selection of witnesses, symmetry breaking, and Markov chains. Topics covered include: randomized computation; data structures (hash tables, skip lists); graph algorithms (minimum spanning trees, shortest paths, minimum cuts); geometric algorithms (convex hulls, linear programming in fixed or arbitrary dimension); approximate counting; parallel algorithms; online algorithms; derandomization techniques; and tools for probabilistic analysis of algorithms.\n",
+  "department_numbers": [
+    "6",
+    "18"
+  ],
+  "extra_course_numbers": "18.416J",
+  "primary_course_number": "6.856J",
+  "course_image_thumbnail": {
+    "content": "b23324cf-3c7e-7389-e4c2-83ce874637f9",
+    "website": "6-856j-randomized-algorithms-fall-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "1736ee87-843f-451d-b2e2-482e595bc935",
+  "site_short_id": "6.856j-fall-2002",
+  "title": "Course Metadata"
+}
